@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Granjaja
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data anlysis
+- 🌱 I’m currently learning Python and web development(Javascript)
+- 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me ...
 
 <!---
