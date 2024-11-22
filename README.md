@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Granjaja
 - 👀 I’m interested in data science
 - 🌱 I’m a certified web developer 
-- 💞️ I’m looking to collaborate on web development data analysis
+- 💞️ I’m looking to collaborate on web development and data analysis
 - 📫 How to reach me ...
 
 <!---
