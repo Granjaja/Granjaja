@@ -3,7 +3,7 @@
 - 🌱 I’m a certified web developer 
 - 💞️ I’m looking to collaborate on web development and data analysis
 - 📫 How to reach me
-          granvilekaranja@gmail.com
+          granvilekaranja@gmail.com,
           +254711912608...
 
 <!---
